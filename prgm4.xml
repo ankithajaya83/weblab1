@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="4styles.css"?>
+<STUDENTDATA>
+	<STUDENT>
+		<USN>USN :1BY25CS410</USN>
+		<NAME>NAME :Ankitha </NAME>
+		<COLLEGE>COLLEGE:BMSIT</COLLEGE>
+		<BRANCH>BRANCH:CSE</BRANCH>
+		<YEAR>YEAR:2025</YEAR>
+		<EMAIL>E-MAIL:ankitha@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>USN :1BY25CS413</USN>
+		<NAME>NAME :Ashwini </NAME>
+		<COLLEGE>COLLEGE:BMSIT</COLLEGE>
+		<BRANCH>BRANCH:CSE</BRANCH>
+		<YEAR>YEAR:2025</YEAR>
+		<EMAIL>E-MAIL:ashwini@gmail.com</EMAIL>
+	</STUDENT>
+	<STUDENT>
+		<USN>USN :1BY25CS216</USN>
+		<NAME>NAME :shama </NAME>
+		<COLLEGE>COLLEGE:BMSIT</COLLEGE>
+		<BRANCH>BRANCH:CSE</BRANCH>
+		<YEAR>YEAR:2025</YEAR>
+		<EMAIL>E-MAIL:shama@gmail.com</EMAIL>
+	</STUDENT>
+</STUDENTDATA>
