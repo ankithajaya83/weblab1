@@ -31,8 +31,7 @@
             <tr>
                 <td>Value 1:</td>
                 <td><input type="text" name="num1" /></td>
-                <td rowspan="2">
-                    <input type="submit" name="submit" value="calculate">
+                <td rowspan="2"><input type="submit" name="submit" value="calculate">
                 </td>
             </tr>
 
@@ -40,7 +39,7 @@
                 <td>Value 2:</td>
                 <td><input type="text" name="num2" /></td>
             </tr>
-        </table>
+        
     </form>
 
     <?php
@@ -57,7 +56,8 @@
 
             echo "<tr><td colspan='2'> Multiplication : </td><td><p>" . ($num1 * $num2) . "</p></td></tr>";
 
-            echo "<tr><td colspan='2'> Division : </td><td><p>" . ($num1 / $num2) . "</p></td></tr>";
+             echo "<tr><td colspan='2'> Division : </td><td><p>" . ($num1 / $num2) . "</p></td></tr>";
+
 
             echo "</table>";
 
